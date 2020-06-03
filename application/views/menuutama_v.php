@@ -2,7 +2,7 @@
 <table border="1" width="100%">
     <tr>
         <td height="200px" align="center">
-            <img src="<?php echo base_url(); ?>assets/images/banner.jpg" alt="banner" width="100%">
+            <img src="<?php echo base_url(); ?>assets/images/banner.jpg" alt="banner" width="100%"  style="float: center; ">
         </td>
     </tr>
     <tr>
