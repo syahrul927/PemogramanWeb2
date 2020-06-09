@@ -1,6 +1,6 @@
 <?php
 
-    class Menuutama extends CI_Controller 
+    class Barang extends CI_Controller 
     {
         function __construct()
         {
@@ -9,7 +9,7 @@
         }
         public function index(){
             $this->load->view('header_v');
-            $this->load->view('menuutama_v');
+            $this->load->view('barang_v');
             $this->load->view('footer_v');
         }
         
